@@ -12,7 +12,6 @@ class name_ban:
         print(c + "░██▓ ▒██░░█████▒░▒████▓ ░██████▒░██░ ")
         print(c + "░ ▒▓ ░▒▓░░░ ▒░ ░ ▒░░  ▒ ░ ▒░▓  ░░▓   ")
         print(c + "  ░▒ ░ ▒░ ░ ░  ░   ▒  ▒   ░ ▒  ░ ▒ ░ ")
-        print(c + "░𝙅𝙏𝙀𝘾𝙃𝘾𝙊𝘿𝙀 2.𝐎 ▒ 𝙅𝘼𝙔𝘼𝙆𝙐𝙈𝘼𝙍 ▒ ")
         print(c + "▒  ░  ▒   ░ ▒  ░   ▒  ▒     ▒    ░ ░  ")
         print(c + "    TRACKING THE END FACE OF URLs\n   ")
 
@@ -32,8 +31,7 @@ It will show you the full redirection path of URLs, shortened links, or tiny URL
         print('Commands')
         print("--track or -t  -> Track the given URL's redirection path & find its end URL.")
         print('--help or -h  -> To display helpline how to use this tool & about tool. ')
-        print('\nCoded by: JAYAKUMAR of JTECHCODE 2.O')
-        print('Subscribe YouTube : https://www.youtube.com/channel/UC_2ln7CZ7XjSpGDMgzsBjQA')
+        print('\nCoded by: Mavin')
 
     def cmdusage(self):
         print('Invalid command-line arguments!')
