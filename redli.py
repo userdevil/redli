@@ -5,14 +5,14 @@ from colorama import Fore, Back, Style
 class name_ban:
     def banner(self):
         c = Fore.WHITE
-        print(c + " ██▀███  ▓█████ ░█████▄  ██░    ░██░ ")
-        print(c + "░██ ░ ██ ▓█   ▀ ░██▀ ██▌░██░  ░ ░██░ ")
-        print(c + "░██ ░▄█  ▒███   ░██   ▒▌░██░  ░ ░██░ ")
-        print(c + "░██▀▀█▄  ▒▓█  ▄  ██▄   ▌ ██░    ░██░ ")
-        print(c + "░██▓ ▒██░░█████▒░▒████▓ ░██████▒░██░ ")
-        print(c + "░ ▒▓ ░▒▓░░░ ▒░ ░ ▒░░  ▒ ░ ▒░▓  ░░▓   ")
-        print(c + "  ░▒ ░ ▒░ ░ ░  ░   ▒  ▒   ░ ▒  ░ ▒ ░ ")
-        print(c + "▒  ░  ▒   ░ ▒  ░   ▒  ▒     ▒    ░ ░  ")
+
+
+   print(c+"_____________________________  .____    .___ ")
+   print(c+"\______   \_   _____/\______ \ |    |   |   |")
+    print(c+"|       _/|    __)_  |    |  \|    |   |   |")
+    print(c+"|    |   \|        \ |    `   \    |___|   |")
+    print(c+"|____|_  /_______  //_______  /_______ \___|")
+        print(c +"  \/        \/         \/        \/ ")   
         print(c + "    TRACKING THE END FACE OF URLs\n   ")
 
     def help(self):
